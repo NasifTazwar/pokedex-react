@@ -1,0 +1,182 @@
+[
+    {
+      "_id": 0,
+      "name": "Articuno",
+      "type": "Ice",
+      "weight": 271,
+      "level": 89,
+      "cost": 100000,
+      "img": "https://www.serebii.net/pokemon/art/144.png"
+    },
+    {
+      "_id": 10,
+      "name": "Zapdos",
+      "type": "Electr",
+      "weight": 440,
+      "level": 53,
+      "cost": 200000,
+      "img": "https://www.serebii.net/pokemon/art/145.png"
+    },
+    {
+      "_id": 20,
+      "name": "Moltres",
+      "type": "Fire",
+      "weight": 288,
+      "level": 25,
+      "cost": 300000,
+      "img": "https://www.serebii.net/pokemon/art/146.png"
+    },
+    {
+      "_id": 30,
+      "name": "Raikou",
+      "type": "Electr",
+      "weight": 149,
+      "level": 54,
+      "cost": 400000,
+      "img": "https://www.serebii.net/pokemon/art/243.png"
+    },
+    {
+      "_id": 40,
+      "name": "Entei",
+      "type": "Fire",
+      "weight": 174,
+      "level": 99,
+      "cost": 500000,
+      "img": "https://www.serebii.net/pokemon/art/244.png"
+    },
+    {
+      "_id": 50,
+      "name": "Suicune",
+      "type": "Water",
+      "weight": 195,
+      "level": 36,
+      "cost": 600000,
+      "img": "https://www.serebii.net/pokemon/art/245.png"
+    },
+    {
+      "_id": 60,
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "weight": 129,
+      "level": 46,
+      "cost": 700000,
+      "img": "https://www.serebii.net/pokemon/art/150.png"
+    },
+    {
+      "_id": 70,
+      "name": "Kyogre",
+      "type": "Water",
+      "weight": 76,
+      "level": 81,
+      "cost": 800000,
+      "img": "https://www.serebii.net/pokemon/art/382.png"
+    },
+    {
+      "_id": 80,
+      "name": "Groudon",
+      "type": "Ground",
+      "weight": 347,
+      "level": 96,
+      "cost": 1000000,
+      "img": "https://www.serebii.net/pokemon/art/383.png"
+    },
+    {
+      "_id": 90,
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "weight": 500,
+      "level": 97,
+      "cost": 1100000,
+      "img": "https://www.serebii.net/pokemon/art/384.png"
+    },
+    {
+      "_id": 100,
+      "name": "Dialga",
+      "type": "Dragon",
+      "weight": 500,
+      "level": 27,
+      "cost": 1200000,
+      "img": "https://www.serebii.net/pokemon/art/483.png"
+    },
+    {
+      "_id": 110,
+      "name": "Palkia",
+      "type": "Dragon",
+      "weight": 196,
+      "level": 37,
+      "cost": 1300000,
+      "img": "https://www.serebii.net/pokemon/art/484.png"
+    },
+    {
+      "_id": 120,
+      "name": "Giratina",
+      "type": "Dragon",
+      "weight": 430,
+      "level": 83,
+      "cost": 1400000,
+      "img": "https://www.serebii.net/pokemon/art/487.png"
+    },
+    {
+      "_id": 130,
+      "name": "Reshiram",
+      "type": "Dragon",
+      "weight": 67,
+      "level": 99,
+      "cost": 1500000,
+      "img": "https://www.serebii.net/pokemon/art/643.png"
+    },
+    {
+      "_id": 140,
+      "name": "Zekrom",
+      "type": "Dragon",
+      "weight": 108,
+      "level": 8,
+      "cost": 1600000,
+      "img": "https://www.serebii.net/pokemon/art/644.png"
+    },
+    {
+      "_id": 150,
+      "name": "Tapu Koko",
+      "type": "Electr",
+      "weight": 108,
+      "level": 8,
+      "cost": 1700000,
+      "img": "https://www.serebii.net/pokemon/art/785.png"
+    },
+    {
+      "_id": 160,
+      "name": "Lunala",
+      "type": "Psychic",
+      "weight": 108,
+      "level": 8,
+      "cost": 1800000,
+      "img": "https://www.serebii.net/pokemon/art/792.png"
+    },
+    {
+      "_id": 170,
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "weight": 108,
+      "level": 8,
+      "cost": 1900000,
+      "img": "https://www.serebii.net/pokemon/art/791.png"
+    },
+    {
+      "_id": 180,
+      "name": "Calyrex",
+      "type": "Psychic",
+      "weight": 108,
+      "level": 8,
+      "cost": 2000000,
+      "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    },
+    {
+      "_id": 190,
+      "name": "Xerneas",
+      "type": "Fairy",
+      "weight": 108,
+      "level": 8,
+      "cost": 21000000,
+      "img": "https://www.serebii.net/pokemon/art/716.png"
+    }
+  ]

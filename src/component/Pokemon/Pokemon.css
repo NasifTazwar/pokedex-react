@@ -1,0 +1,14 @@
+.card-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Giving img width */
+.img-width{
+    width: 60%;
+}
+.card-list:hover{
+    background-color: #288f5f26;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
